@@ -1,0 +1,8 @@
+{
+    "name":"api/open-weather-map",
+    "autoload":{
+        "psr-4":{
+            "App\\":"app/"
+        }
+    }
+}
